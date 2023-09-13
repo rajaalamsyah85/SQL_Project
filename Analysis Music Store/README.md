@@ -35,4 +35,4 @@ Question Set 3 - Advanced Level
 
 ## Entity Relationship Diagram (ERD) Music Store
 
-[![ERD](https://github.com/rajaalamsyah85/SQL_Project/blob/4ef4356e1d2dea42d389265305b1d10298645e60/Analysis%20Music%20Store/ERD%20Music%20Store.png)
+![ERD](https://github.com/rajaalamsyah85/SQL_Project/blob/4ef4356e1d2dea42d389265305b1d10298645e60/Analysis%20Music%20Store/ERD%20Music%20Store.png)
